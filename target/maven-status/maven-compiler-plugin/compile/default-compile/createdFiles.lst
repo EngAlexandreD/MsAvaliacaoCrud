@@ -1,0 +1,7 @@
+com\avaliacao\teste\dxc\model\Cliente.class
+com\avaliacao\teste\dxc\repository\ClienteJdbcRepository.class
+com\avaliacao\teste\dxc\service\ClienteService.class
+com\avaliacao\teste\dxc\config\SecurityConfigurations.class
+com\avaliacao\teste\dxc\controller\ClienteController.class
+com\avaliacao\teste\dxc\TesteDxc.class
+com\avaliacao\teste\dxc\repository\ClienteRepository.class
